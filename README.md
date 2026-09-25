@@ -9,19 +9,18 @@
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Self-driven and passionate Cyber Security professional with hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT), ISO 27001 documentation support, and employee security awareness training.
-- Currently working as an IT Security Specialist, where I perform internal and external VAPT activities, identify security gaps, analyze risks, and provide remediation recommendations aligned with security best practices. I also assist in preparing ISO 27001 policies, procedures, and supporting documents to help the organization achieve compliance.
-- Despite having no formal certifications yet, I have built my skills through continuous self-learning using official documentation, cybersecurity books, hands-on labs, and practical testing. I strongly believe in learning by doing and improving every day.
-- Currently expanding my VAPT skills and building practical projects to become a stronger security professional. Also, training for ISO 27001:2022 Lead Auditor.
-- Open to learning, collaboration, and new opportunities in Cyber Security.
 
+I'm Sakib — an early-career cybersecurity professional based in Dhaka, Bangladesh. I'm self-taught in the field, backed by a BSc in CSE from AIUB, with 8 months of hands-on experience as an IT Security Officer, where I worked on ISO/IEC 27001:2022 ISMS implementation, internal VAPT (white and grey box), risk register maintenance, supported an external surveillance audit with Bureau Veritas, administered CrowdStrike Falcon EDR, and delivered security awareness training. I've also completed the Google Cybersecurity Professional Certificate, covering incident response, SIEM/SOAR concepts, and NIDS/HIDS.
+
+I'm longer-term interested in specializing in GRC, but I'm realistic about the entry-level market — I'm open to roles across SOC, GRC, pentest, or general cyber ops as I build my career.
 
 ## 🧠 My Focus Areas
-- Web Application Security
-- Network Security
-- Vulnerability Assessment & Penetration Testing
-- ISO 27001 & Information Security Management
-- Security Awareness & Risk Mitigation
+- **GRC (long-term interest)** — ISMS implementation, Annex A control mapping, Statement of Applicability, gap analysis, internal audits
+- **Security Operations Fundamentals** — SIEM/SOAR concepts, NIDS/HIDS, incident response (via Google Cybersecurity Professional Certificate)
+- **Hands-on Lab Work** — home SOC lab using VMware and Metasploitable, practicing attack simulation and detection
+- **Risk Management** — risk register maintenance, risk assessment methodology, nonconformity tracking
+- **Vulnerability Assessment** — internal VAPT (white/grey box)
+- **Open to early-career roles** — SOC, GRC, pentest, or general cyber ops — while building experience
 
 
 ## 🛠️ Languages & Tools
