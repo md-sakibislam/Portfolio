@@ -9,7 +9,6 @@
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-Aspiring Cybersecurity Professional | Actively Seeking Opportunities
 
 I'm Sakib — an early-career cybersecurity professional based in Dhaka, Bangladesh. I'm self-taught in the field, backed by a BSc in CSE from AIUB, with 8 months of hands-on experience as an IT Security Officer, where I worked on ISO/IEC 27001:2022 ISMS implementation, internal VAPT (white and grey box), risk register maintenance, supported an external surveillance audit with Bureau Veritas, administered CrowdStrike Falcon EDR, and delivered security awareness training. I've also completed the Google Cybersecurity Professional Certificate, covering incident response, SIEM/SOAR concepts, and NIDS/HIDS.
 
