@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MD%20Sakib%20Islam&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=IT%20Security%20Officer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MD%20Sakib%20Islam&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Cybersecurity%20Professional | Actively Seeking Opportunities&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=md-sakibislam">
@@ -9,6 +9,7 @@
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+Aspiring Cybersecurity Professional | Actively Seeking Opportunities
 
 I'm Sakib — an early-career cybersecurity professional based in Dhaka, Bangladesh. I'm self-taught in the field, backed by a BSc in CSE from AIUB, with 8 months of hands-on experience as an IT Security Officer, where I worked on ISO/IEC 27001:2022 ISMS implementation, internal VAPT (white and grey box), risk register maintenance, supported an external surveillance audit with Bureau Veritas, administered CrowdStrike Falcon EDR, and delivered security awareness training. I've also completed the Google Cybersecurity Professional Certificate, covering incident response, SIEM/SOAR concepts, and NIDS/HIDS.
 
